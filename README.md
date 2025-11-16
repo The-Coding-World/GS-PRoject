@@ -84,7 +84,38 @@ Create messaging content
     ↓
 Launch campaign & track results
 
+---
 
+
+### Exercises
+
+1. **Write down the advantages of advertising on radio.**
+
+   - Radio advertising is cost-effective and delivers messages frequently throughout the day.
+   - It reaches mobile audiences, is quick to produce, and supports local targeting and call-to-action.
+
+2. **Chalk out an exhibition campaign for a product having a pan-India appeal in order to make it successful throughout the country.**
+
+   - Identify the target audience and regions across India.
+   - Choose diverse locations for exhibitions to ensure wide coverage.
+   - Use local languages, celebrity endorsements, and interactive demo stalls.
+   - Integrate digital promotions and feedback collection to maximize impact.
+
+3. **Explain the latest trend of convergence in advertising with suitable examples.**
+
+   - Convergence means blending various media platforms (TV, internet, social media).
+   - Example: A TV ad featuring a QR code sending viewers to a social media contest page.
+   - Integrated influencer campaigns across YouTube, Instagram, and TV build greater reach and engagement.
+
+4. **On what basis does market segmentation occur? Discuss each characteristic briefly.**
+
+   - Geographic: locality, climate, city/rural.
+   - Demographic: age, gender, income, occupation.
+   - Psychographic: aspirations, lifestyle, attitude.
+   - Behaviouristic: buying habits, brand loyalty, usage rate.
+
+---
+---
 ## Unit 2: Production Process: Film / TV / Print / Radio / Internet
 
 ### Film
@@ -158,6 +189,33 @@ Web sites need clear goals and planned design (content, usability, appearance, v
   - Static: manual changes only; Dynamic: can update automatically.
 - Design principles?
   - Relevant content, user-friendly, seamless visuals, SEO.
+
+---
+## Unit 2: Production Process: Film / TV / Print / Radio / Internet
+
+### Exercises
+
+1. **Briefly describe the stages involved in filmmaking.**
+
+   - Pre-production: script, budgeting, casting, location planning.
+   - Production: actual shooting, managing actors and crews.
+   - Post-production: editing, adding music and effects, finalizing the film.
+
+2. **Differentiate between static and dynamic web pages with examples.**
+
+   - Static: Fixed content, only updates with manual edit (e.g., a personal homepage).
+   - Dynamic: Content changes automatically/user-driven (e.g., news portal, e-commerce site).
+
+3. **Name and describe any three main departments in a print media organization.**
+
+   - Editorial: Reporters and editors generate and refine content.
+   - Technical: Printing operations and equipment handling.
+   - Distribution: Manages circulation and logistics for delivery.
+
+4. **What is a shooting ratio? Why is it important during production?**
+
+   - Shooting ratio is the amount of footage shot compared to the final edited film length.
+   - Important for cost control, editing flexibility, and resource management.
 
 ---
 
@@ -360,3 +418,31 @@ Eco-friendly careers (solar tech, organic farming, recycling). Crucial for fight
   - Limit pollution, combat climate change, support ecosystem health.
 
 ---
+## Unit 3: New Media/Communication Skills & Convergence
+
+### Exercises
+
+1. **What are emails' main advantages and disadvantages?**
+
+   - **Advantages:** Instant, low cost, mass communication, eco-friendly.
+   - **Disadvantages:** Vulnerability to interception, spam, phishing, viruses, identity theft.
+
+2. **Explain ‘globalization’ as a megatrend in mass media.**
+
+   - Globalization connects cultures/media worldwide, spreading information and trends rapidly via media convergence (internet, television, social platforms).
+
+3. **What is media convergence, and how does it affect communication today?**
+
+   - Media convergence is the merging of traditional and new media.
+   - Enables content to flow across different platforms: e.g., news can be published in print, broadcast on TV/radio, and shared instantly on social media.
+
+4. **List the components of a spreadsheet and their importance.**
+
+   - Rows: Horizontal cell groups.
+   - Columns: Vertical cell groups.
+   - Cells: Basic data unit (intersection).
+   - Formula bar: Enter/edit data/formulas.
+   - Name box: Shows selected cell reference.
+   - Worksheet: Individual sheet/tab.
+   - Workbook: Entire file containing all sheets.
+  ---

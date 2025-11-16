@@ -1,131 +1,262 @@
-# Mass Media Studies (Class 12) Syllabus: Comprehensive Notes & Q&A
+
+# Mass Media Studies (Class 12) – Full Syllabus Notes, Tables and Q&A
 
 ---
 
 ## Unit 1: Selling / Marketing / Exhibiting a Product Through Advertising
 
-### 1. Advertising Concept & Process
-Advertising defines a product’s identity: form, specs, look, packaging, and **USP** (Unique Selling Point). Planning includes market testing—sometimes using psychology/sociology. For industrial clients, advertising requires extensive research into customer needs and provides solutions in a systematic manner. Market segmentation is crucial for focused campaigns: splits large audiences into groups by location, age, income, psychographic (status/appearance), and behaviour (buying habits).
+### Advertising Concept & Process
+Advertising defines a product's form, appearance, packing, specs, and USP. R&D does market testing, sometimes using color schemes and psychologists/sociologists. Industrial ads focus on client workplace needs using systematic solutions. Market segmentation (geographic, demographic, psychographic, behaviouristic) helps campaigns target efficiently.
 
-**Sample Q&A:**
-- *Describe the way for determining the unique selling point of a physical product.*
-  - R&D defines the product’s form/specs/look/packaging and identifies USP.
-- *Explain market segmentation and its importance.*
-  - Splits audiences for focused messaging and budget-effective advertising.
+**Q&A**
+- How to determine the USP of a product?
+  - R&D defines the look/packaging/specs and finds the USP.
+- Why is market segmentation important?
+  - Segments focus the ad for specific audiences, maximizing impact and budget.
 
----
+#### Table: Market Segmentation
 
-### 2. Function of Advertising
-Market research and analysis underpin campaigns. Functions: introduce new products, distinguish from competitors, build brand identity, create loyalty, expand sales, spark demand, keep “buzz” alive.
-
-**Sample Q&A:**
-- *What preparatory work forms the support of an advertisement campaign?*
-  - Market research, analysis, product/market/audience profiles.
-
----
-
-### 3. Types of Advertising
-Media and budget determine strategy. Choices: Newspapers (credibility), Magazines (quality, longevity), TV (reach/impact), Radio (audio only, frequency), Direct Mail (personal/selective), Outdoor/OOH (billboards), Digital (Internet/social media). Each has unique benefits and limits.
-
-**Sample Q&A:**
-- *Criteria for media selection in advertising?*
-  - Budget + ability to reach a target audience.
-- *Utility of radio as advertising medium?*
-  - Immediate/frequent messages, low cost, reaches traveling audience.
+| Type          | Example/Explanation                            |
+|---------------|------------------------------------------------|
+| Geographic    | Locality, climate, rural/urban                 |
+| Demographic   | Age, gender, income, occupation                |
+| Psychographic | Status, aspirations, personality traits        |
+| Behaviouristic| Buying habits, loyalty, usage frequency        |
 
 ---
 
-### 4. Forms of Advertising
-- **Product Advertising**: Features, superiority, often uses celebrities.
-- **Institutional Advertising**: Promotes company image, aligns with causes.
-- **Public Service Advertising**: Highlights issues/causes, dramatic, behaviour-change.
-- **Comparative Advertising**: Compares brands (legal in some countries), must avoid misinformation.
-- **Cooperative Advertising**: Shared costs between big manufacturers and retailers.
-- **Informational Advertising**: Focused on new product info for consumer choices.
-- **Point-of-Purchase Advertising**: In-store impulse triggers (banners/displays/digital screens).
+### Function of Advertising
+Advertising is founded on research and a clear strategy. Functions: introduce new products, build brand, distinguish from competitors, sustain interest, expand sales, maintain demand.
 
-**Sample Q&A:**
-- *Describe the purpose of Public Service Advertising.*
-  - Short, dramatic messages to drive positive social change.
-- *Cooperative advertising benefits?*
-  - Shared costs, mutual exposure, lower local rates.
+**Q&A**
+- What is preparatory work for an ad campaign?
+  - Market research and detailed analysis of product/audience.
 
 ---
 
-### 5. End of Unit Exercise (Sample)
-- *On what basis does market segmentation occur? Discuss briefly.*
-  - Geographic, demographic, psychographic, behaviouristic.
-- *Explain convergence in advertising with examples.*
-  - TV–Internet merge (YouTube, Facebook): new, multimedia ad opportunities.
+### Types of Advertising
+Media choices: Newspaper, Magazine, TV, Radio, Direct Mail, Outdoor (OOH), Digital. Each has its impact, delivery speed, and cost.
+
+**Q&A**
+- Criteria to select media for advertising?
+  - Budget and audience reach.
+- Utility of radio ads?
+  - Instant, frequent reach; mobile audiences; low production cost.
+
+#### Table: Comparison of Advertising Media
+
+| Media Type    | Advantages               | Disadvantages           |
+|---------------|-------------------------|-------------------------|
+| Newspaper     | Credibility, local reach | Short lifespan          |
+| TV            | High impact, reach       | High cost, fleeting     |
+| Radio         | Frequent, low cost       | Audio only, ephemeral   |
+| Outdoor       | High visibility          | High setup cost         |
+| Digital       | Large young audience     | Fast changing trends    |
 
 ---
 
-## Unit 2: The Production Process (Film / TV / Print / Radio / Web)
+### Forms of Advertising
+- **Product**: Highlights features, superiority; uses celebs.
+- **Institutional**: Builds company reputation.
+- **Public Service**: Social causes/awareness.
+- **Comparative**: Brand comparisons.
+- **Cooperative**: Shared ads by retailer/manufacturer.
+- **Informational**: New product intro.
+- **Point-of-Purchase**: In-store banners/triggers.
 
-### Film (C1)
-Film is an industrial-scale creative process: Pre-shooting (script, budget, team/cast, finance), Shooting (lighting, camera, acting, multiple takes/ratios), Post-shooting (editing, music, final print). **Above the Line Costs**: creative; **Below the Line Costs**: technical/logistical.
-
-**Sample Q&A:**
-- *Difference between 'Above the Line' and 'Below the Line' costs in a film budget?*
-  - Creative costs (script, director, lead actors) vs. technical/crew/etc.
-- *What is a shooting ratio?*
-  - Filmed footage vs. final film length (varies; often 1:10–1:20).
-
----
-
-### TV (C2)
-TV is produced as Live or Non-Live: Pre-production (planning, storyboards, casting), Production (camera, lighting, schedules), Post-production (editing, effects, commentary). Live events involve instant camera switching and replays; Non-Live is polished in editing.
-
-**Sample Q&A:**
-- *Three key purposes of lighting in TV?*
-  - Adequate camera illumination, showing objects/time/season, mood setting.
-- *Live event telecast management vs. Non-live?*
-  - Live: real-time selection/replays; Non-Live: post-editing.
+**Q&A**
+- Purpose of Public Service Ads?
+  - Simple, emotional messages to trigger positive change.
+- Benefits of Cooperative Advertising?
+  - Shared cost, broader reach, affordable local rates.
 
 ---
 
-### Print (C3)
-Newspapers: Five departments (Editorial, Advertising, Management, Technical, Distribution). Editorial team: reporters (story gathering), sub-editors (accuracy, headlines), designers (layout). Print relies on quick team coordination.
+#### Flowchart: Steps in an Ad Campaign
 
-**Sample Q&A:**
-- *Reporter vs. Sub-editor?*
-  - Reporters gather/news; sub-editors desk-check/edit/provide headlines.
-- *Feature vs. news story?*
-  - Features: long, analytical, essay-like, distinct viewpoint; News: factual, brief, inverted pyramid.
+Research product & market 
+    ↓
+Define segmentation & USP
+    ↓
+Select media & form
+    ↓
+Create messaging content
+    ↓
+Launch campaign & track results
 
----
 
-### Radio (C4)
-Radio: Spoken word (news/talks/dramas) & Music programs. Skills required include clear, engaging scripting for the ear, simplicity, repetition. Modern radio uses digital/computer-based editing.
+## Unit 2: Production Process: Film / TV / Print / Radio / Internet
 
-**Sample Q&A:**
-- *Principles for radio scripting?*
-  - Write for the ear, use simple/conversational language, repeat crucial points, use imagery.
-- *Modern change in radio production?*
-  - Audio now edited/visualized on computers, replacing tape-splicing.
+### Film
+Stages: Pre-shoot (script, budget, casting), Shoot (lighting, camera, acting), Post (editing, music, sound balancing). Shooting ratio: Footage shot vs. final movie length.
 
----
-
-### Internet (C5)
-Websites: require purpose identification, target audience, planning docs (sitemap/wireframe), visual design, usability, appearance, visibility, use of mark-up and scripting. Static vs. Dynamic pages: static is fixed, dynamic changes with data/user input.
-
-**Sample Q&A:**
-- *Difference between static and dynamic web pages?*
-  - Static: unchanged unless manually updated; Dynamic: auto-adapts by user/data.
-- *Core website design principles?*
-  - Relevant content, usability, consistent appearance, high visibility.
+**Q&A**
+- Difference between Above and Below the Line costs?
+  - Above: Creative roles; Below: Technical/logistics.
+- What is a shooting ratio?
+  - Amount filmed versus final length.
 
 ---
 
-## Unit 3: New Media & Communication (Convergence and New Possibilities)
+### TV
+Pre-production (storyboard, casting, equipment), Production (camera, lighting, recording), Post-production (editing, sound, effects). Live shows use instant switching/replays.
 
-Modern media = ICE Age (Information, Communication, Entertainment). Media has democratized info, enabled global/local discourse, and changed traditional broadcasting models. Individual empowerment and rapid opinion formation.
+**Q&A**
+- Purposes of TV lighting?
+  - Illumination, object details, mood setting.
+- Live v/s Non-live TV?
+  - Live: Real-time direction; Non-live: Edited, refined.
 
-**Sample Q&A:**
-- *Three megatrends (Tehranian)?*
+#### Table: TV Production Roles
+
+| Role               | Function                     |
+|--------------------|-----------------------------|
+| Producer           | Launch concept, hire team    |
+| Director           | Shoot, direct actors/staff   |
+| Technical Director | Handle equipment             |
+| Lighting Director  | Design lighting              |
+| Editor             | Cut, sequence, add effects   |
+
+---
+
+### Print
+Departments: Editorial, Commercial, Management, Technical, Distribution. Editorial = reporters (gather info), sub-editors (edit/write headlines). Features = detailed, analytical; News = brief, factual.
+
+**Q&A**
+- Reporter vs sub-editor?
+  - Reporter collects info; sub-editor edits and headlines.
+- Feature vs news story?
+  - Feature is detailed/discussion; News is factual/brief.
+
+#### Table: Print Media Roles
+
+| Role          | Function                                               |
+|---------------|-------------------------------------------------------|
+| Reporter      | Gathers news, interviews, verifies facts              |
+| Sub-editor    | Edits for accuracy/language, writes headlines         |
+| Editor        | Plans layout/content, upholds paper's credibility     |
+| Designer      | Arranges page layout, integrates elements             |
+
+---
+
+### Radio
+Spoken word (news, drama), Music. Scripts simple, conversational, repetitive. Modern: Computerized editing (not tapes).
+
+**Q&A**
+- Radio script principles?
+  - Ear-friendly, simple, repetitive, image-rich.
+- Modern change in radio production?
+  - Digital editing/automation.
+
+---
+
+### Internet
+Web sites need clear goals and planned design (content, usability, appearance, visibility). Static pages don't change; dynamic adapt by user/data.
+
+**Q&A**
+- Difference: Static vs dynamic page?
+  - Static: manual changes only; Dynamic: can update automatically.
+- Design principles?
+  - Relevant content, user-friendly, seamless visuals, SEO.
+
+---
+
+## Unit 3: New Media/Communication Skills & Convergence
+
+Modern age = ICE (Information, Communication, Entertainment). Web enables individual sharing and discourse. Media convergence mixes TV/Internet/social.
+
+**Q&A**
+- Megatrends (Tehranian)?
   - Globalization, Regionalization, Democratization.
-- *Mass communication model before Internet?*
-  - Few large senders broadcast to many receivers.
+- Old mass communication model?
+  - Few senders → many receivers.
+
+---
+
+### Tables & Flowcharts from Resources
+
+#### Spreadsheet Components
+
+| Part         | Description              |
+|--------------|--------------------------|
+| Row          | Horizontal cell group     |
+| Column       | Vertical cell group       |
+| Cell         | Data/intersection point   |
+| Formula Bar  | Enter/edit data/formulas  |
+| Name Box     | Shows cell reference      |
+| Worksheet    | Individual sheet          |
+| Workbook     | Spreadsheet file          |
+
+#### Steps to Start LibreOffice Calc
+
+
+Install LibreOffice
+    ↓
+Search/Launch Calc
+    ↓
+New sheet opens
+    ↓
+Enter/edit data
+
+
+#### Filtering Data in Spreadsheet
+
+
+Click Autofilter Icon
+    ↓
+Filter dropdowns show up
+    ↓
+Select filter option
+    ↓
+Click OK
+    ↓
+View filtered results
+
+
+#### Data Entry in Spreadsheet
+
+| Data Type | Description                       |
+|-----------|-----------------------------------|
+| Text      | Letters, sentences                |
+| Number    | Numeric values                    |
+| Formula   | Calculations starting with `=`    |
+
+#### Steps to Protect a Spreadsheet
+
+| Step                | Description                                   |
+|---------------------|-----------------------------------------------|
+| Open Tools Menu     | Click on Tools in spreadsheet software        |
+| Select Protect      | Choose 'Protect Spreadsheet'                  |
+| Set Password        | Enter/confirm password, click OK              |
+| Save File           | Protected file prompts for password on open   |
+
+---
+
+#### Presentation Software – Main Actions
+
+| Action       | Result                                    |
+|--------------|--------------------------------------------|
+| Open File    | Start with blank/existing presentation     |
+| Save As      | Store work with desired name/format        |
+| Print        | Set print settings/slide selection         |
+| Add Slide    | Insert new slides for topics               |
+| Format Text  | Edit fonts/colors/layouts                  |
+
+#### E-Mail Pros/Cons
+
+| Advantages      | Disadvantages         |
+|-----------------|----------------------|
+| Instant         | Can be intercepted   |
+| Free/cheap      | May spread viruses   |
+| Mass reach      | Phishing/spam risk   |
+| Eco-friendly    | Identity theft risk  |
+
+#### Bollywood Composers
+
+| Era          | Composers              |
+|--------------|------------------------|
+| 1950-90      | R.D. Burman, SD Burman, Laxmikant-Pyarelal |
+| 2000s-now    | A.R. Rahman, Pritam, Amit Trivedi, Vishal-Shekhar |
 
 ---
 
@@ -139,30 +270,48 @@ Modern media = ICE Age (Information, Communication, Entertainment). Media has de
 
 **Web**: Conceptualizer (core idea, niche), Designer (visuals/coding), Web Editor (content, updates), Content Writer (relevant/searchable web text).
 
-**Sample Q&A:**
-- *Why is the director the true author of a film?*
+**Q&A:**
+- Why is the director the true author of a film?
   - Holds full creative responsibility (script, casting, execution, editing).
-- *Role of continuity assistant in TV?*
+- Role of continuity assistant in TV?
   - Records scene details for consistency.
-- *Website conceptualizer’s job?*
+- Website conceptualizer's job?
   - Defines core identity, niche, keywords, ensures focused topic/expertise.
 
 ---
 
-## Skills: Communication / Employability
+## Employability & ICT Skills
 
-**Active Listening (RESPECT):**  
-Remove distractions, Eye contact, Show listening, Pay attention, Empathise, Clarify, Tune yourself.
+### Active Listening (RESPECT)
+Remove Distractions, Eye Contact, Show Listening, Pay Attention, Empathise, Clarify, Tune Yourself.
 
-**Parts of Speech**: Noun, Pronoun, Adjective, Verb, Adverb, Article, Conjunction, Preposition, Interjection.
+### Parts of Speech
 
-**Sentences**: Declarative, Interrogative, Exclamatory, Imperative.  
-Voice: Active/Passive
+| Part          | Example                 |
+|---------------|-------------------------|
+| Noun          | Cat, School             |
+| Pronoun       | He, She, It             |
+| Adjective     | Fast, Happy             |
+| Verb          | Run, Speak              |
+| Adverb        | Quickly, Very           |
+| Article       | A, An, The              |
+| Conjunction   | And, But, Or            |
+| Preposition   | On, At, In              |
+| Interjection  | Wow! Oh!                |
 
-- *What is an adverb’s function?*  
+### Sentences
+
+| Type          | Example                 |
+|---------------|-------------------------|
+| Declarative   | I go to school.         |
+| Interrogative | Are you coming?         |
+| Imperative    | Please sit down.        |
+| Exclamatory   | What a goal!            |
+
+**Q&A:**
+- What is an adverb's function?
   - Answers how, when, where, to verbs/adjectives.
-
-- *Example of declarative sentence:*  
+- Example of declarative sentence:
   - "I go to office." / "I completed my project."
 
 ---
@@ -173,24 +322,41 @@ Voice: Active/Passive
 
 **Presentation Software**: Creating slides, formatting, media insertion, control (shortcuts, e.g., Ctrl+M for new slide), saving, printing.
 
-- *How to protect a spreadsheet?*  
-  - Use password via ‘Tools > Protect Spreadsheet’, or save with password.
+**Q&A:**
+- How to protect a spreadsheet?
+  - Use password via 'Tools > Protect Spreadsheet', or save with password.
+- Why use cell addresses in formulas?
+  - So formulas auto-update when cell values change.
 
 ---
 
 ## Entrepreneurship & Green Skills
 
-**Entrepreneurship**: Developing ideas, facing uncertainty, initiative, confidence, hard work, risk-taking.  
-Barriers: Environmental (resources, labour, infrastructure), personal (fear/self-doubt).
+### Entrepreneurship
+Initiative, risk-taking, innovation, leadership. Barriers: lack of resources, fear, infrastructure limitations.
 
-**Competencies**: Decisiveness, initiative, perseverance, organizing skills.
+#### Table: Barriers
 
-**Green Jobs**: Sustainable/environment-focused roles (organic farming, solar technician, recycling). Important for environmental protection/climate action.
+| Type         | Example                       |
+|--------------|------------------------------|
+| Environmental| Skills, infrastructure, resources |
+| Personal     | Fear, self-doubt             |
 
-- *Define green jobs & give examples.*  
+### Green Jobs
+Eco-friendly careers (solar tech, organic farming, recycling). Crucial for fighting pollution & climate change.
+
+#### Table: Green Job Examples
+
+| Green Job         | Description                 |
+|-------------------|-----------------------------|
+| Organic Farmer    | Uses sustainable practices  |
+| Solar Technician  | Installs/repairs solar      |
+| Recycling Manager | Handles waste/recycling     |
+
+**Q&A:**
+- Define green jobs & give examples.
   - Environmentally restorative roles: solar tech, organic farmer, waste manager.
-
-- *Why are green jobs important?*  
+- Why are green jobs important?
   - Limit pollution, combat climate change, support ecosystem health.
 
 ---
